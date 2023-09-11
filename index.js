@@ -10663,10 +10663,10 @@ window.addEventListener("load", async () => {
 
     if (contrato == "COMPAÑÍA DE EMPAQUES") {
       if (descuento == "SI") {
-        deduccion = "41.660 pesos";
+        deduccion = "41.650 pesos";
       }
       else {
-        deduccion = "51.660 pesos";
+        deduccion = "51.650 pesos";
         
       }
       formulario = "formulario_descuento_compañia.jpg";
@@ -10683,29 +10683,29 @@ window.addEventListener("load", async () => {
 
     } else if (contrato == "ZONA FRANCA") {
       if (descuento == "SI") {
-        deduccion = "41.660 pesos";
+        deduccion = "41.650 pesos";
       }
       else {
-        deduccion = "51.660 pesos";
+        deduccion = "51.650 pesos";
         
       }
-      formulario = "formulario_descuento_compañia.jpg";
+      formulario = "formulario_descuento_zonaFranca.jpg";
       posiciones = {
-        campo1: [100, 390], // firma
-        campo2: [80, 500], // fecha
+        campo1: [100, 410], // firma
+        campo2: [80, 510], // fecha
         campo3: [120, 147], // nombre
-        campo4: [135, 373], // nombre-firma
-        campo5: [135, 388], // cedula 
-        campo6: [335, 187], // deducción
+        campo4: [135, 385], // nombre-firma
+        campo5: [135, 400], // cedula 
+        campo6: [90, 200], // deducción
         campo7: [455, 162], // día de la deduccion
       };
 
     } else if (contrato == "SINTRA EMPAQUES") { 
       if (descuento == "SI") {
-        deduccion = "36.660 pesos";
+        deduccion = "36.650 pesos";
       }
       else {
-        deduccion = "51.660 pesos";
+        deduccion = "51.650 pesos";
         
       }
       formulario = "formulario_descuento_sintraempaques.jpg";
@@ -10778,7 +10778,13 @@ async function generatePDF(formulario, nombre, cedula, deduccion, contrato) {
   pdf.save(`${cedula}_${contrato}_autorizacion_firmada.pdf`);
   //setTimeout(() => {  window.close(); }, 7000);
   //setTimeout(() => {  history.back(); }, 5000);
+  const successMessage = document.getElementById("successMessage");
+  successMessage.style.display = "block"; // Muestra el mensaje
+
   setTimeout(() => {
-    location.reload();
-  }, 5000);
+      window.close(); // Cierra la ventana actual
+  }, 15000);
+  // setTimeout(() => {
+  //   location.reload();
+  // }, 5000);
 }
