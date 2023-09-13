@@ -10608,6 +10608,492 @@ const empleados = [
     nomina: "COMPAÑÍA DE EMPAQUES",
     descuento: "NO",
   },
+  {
+    cedula: "1037666654",
+    empleado: "JOSE DAVID PEREZ HERNANDEZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1040750897",
+    empleado: "SEBASTIAN PORRAS SALAZAR",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1001015850",
+    empleado: "PAULO ZAPATA GARCES",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1001469561",
+    empleado: "LAURA GONZALEZ CHICA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1053790967",
+    empleado: "CINDY LORENA BRAVO GRAJALES",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1216725945",
+    empleado: "DALANY PALACIO GUZMAN",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "43902097",
+    empleado: "LEYCY YASMINA MOSQUERA PALACIOS",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1017206554",
+    empleado: "VALERIA SOSSA CARDONA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1022096082",
+    empleado: "SOLANGE CANO PRESIGA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1026155154",
+    empleado: "ANDERSON MURILLO VELASQUEZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1036964888",
+    empleado: "LUZ DEISY GRISALES RAMIREZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1037622248",
+    empleado: "STEFANIA GOMEZ PENAGOS",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1128419200",
+    empleado: "JOVAN STIVEN ORTIZ CANO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "32206357",
+    empleado: "CLAUDIA ALEXANDRA LOPEZ VELEZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "32295602",
+    empleado: "TATIANA ALEXANDRA FERNANDEZ ORTIZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "43607125",
+    empleado: "CLAUDIA LUCIA BOTERO ZULUAGA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1016041433",
+    empleado: "ELIDA MARIANA VERGEL ARIAS",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "42691039",
+    empleado: "ISABEL CRISTINA GOMEZ RODRIGUEZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1152452227",
+    empleado: "LEIDY TATIANA CUERVO BERMUDEZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1020222406",
+    empleado: "MARIA CAMILA GOMEZ MENESES",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1152216386",
+    empleado: "MARLLY ANDREA PIZARRO RESTREPO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "71378668",
+    empleado: "FELIX JOHANNY MERCADO RAMIREZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1017261840",
+    empleado: "ANGELA MARIA PENAGOS POSADA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1017158548",
+    empleado: "SHIRLEY YULIANY VASQUEZ VASQUEZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1027942724",
+    empleado: "LINA MARIA JARAMILLO ESTRADA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1037615289",
+    empleado: "JAIRO ESTIVEN LONDOÑO RIOS",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1128453895",
+    empleado: "DEIDY JOHANA MARIN SEGURA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "32243776",
+    empleado: "SANDRA MILENA PULGARIN SERNA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "98649371",
+    empleado: "EDWIN GARCES RAMIREZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1010010676",
+    empleado: "ROBINSON MOSQUERA MURILLO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "52976686",
+    empleado: "LEIDY ELENA SANTOS ALVAREZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "71387487",
+    empleado: "JOAVANNY ALBERTO GOMEZ AGUIRRE",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "71387878",
+    empleado: "CARLOS ANDRES VELASQUEZ URIBE",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1007822112",
+    empleado: "KEVIN ARLEY HOYOS GUZMAN",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "43424947",
+    empleado: "MARIA CELINA BEDOYA GALLEGO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "72339717",
+    empleado: "ERIC DE JESUS MONTERO GAMARRA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1035921725",
+    empleado: "JULIAN HINCAPIE MOLINA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1112878568",
+    empleado: "PEDRO LUIS PERDIGON GALLEGO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1001416036",
+    empleado: "JUAN MANUEL RODRIGUEZ SANCHEZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1001651934",
+    empleado: "SANTIAGO QUIROZ GRISALES",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "70287965",
+    empleado: "JOSE BENJAMIN GALLO MORALES",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "71726961",
+    empleado: "RODOLFO LEON ZAPATA GARCIA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1099370722",
+    empleado: "YULY ANDREA GARCIA CARVAJAL",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1129565072",
+    empleado: "REGINALDO ALFONSO GUTIERREZ CASTILLO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1000887486",
+    empleado: "VICTOR MANUEL CIRO DAVID",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "98643022",
+    empleado: "GONZALO DE JESUS GOMEZ CANDELO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1035235684",
+    empleado: "ANDRES FELIPE HINESTROZA ROMERO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1036617254",
+    empleado: "LIBARDO ANTONIO RESTREPO ARISTIZABAL",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "32180524",
+    empleado: "DIANA MARIA MEJIA ARROYAVE",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1001709859",
+    empleado: "BANDERA VALLEJO VALENTINA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "1017245295",
+    empleado: "RUIZ ARROYO FRANCISCO ANTONIO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "1035427069",
+    empleado: "LUNA HURTADO FELIPE",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "1036651052",
+    empleado: "JURADO GOMEZ JUAN ESTEBAN",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "1036669379",
+    empleado: "VELASQUEZ NARVAEZ MARIANA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "1232401248",
+    empleado: "MORA BARAJAS PILAR DEL VALLE",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "15442902",
+    empleado: "GONZALEZ TABARES CRISTIAN CAMILO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "32746415",
+    empleado: "LEAÑO SIADO ROSALBA PATRICIA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "42144076",
+    empleado: "ORTIZ SOTO LINA MARIA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "42874864",
+    empleado: "GALLEGO OSPINA ADRIANA MARIA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "43639793",
+    empleado: "ARISTIZABAL CHAVARRIA SURLEY ARELLI",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "43755424",
+    empleado: "VALENCIA VELEZ CLAUDIA YANET",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "71709295",
+    empleado: "GIRALDO MACIAS LUIS ALEJANDRO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "98550948",
+    empleado: "MUNERA GIRALDO JUAN FELIPE",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "98569519",
+    empleado: "AGUDELO BECERRA JHON EVER",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "98570907",
+    empleado: "CALDERON SALAZAR JUAN FERNANDO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "98696710",
+    empleado: "MAZO SANCHEZ YORJAN ALEXIS",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "1035915725",
+    empleado: "MONTOYA RIOS YENI ALEJANDRA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "1128267451",
+    empleado: "PEAK LEMOS PAUL",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "1128433832",
+    empleado: "ARBOLEDA EUSE LEIDY YOHANA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "43556860",
+    empleado: "YARLEY DEL SOCORRO LOAIZA ARENAS",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "26067820",
+    empleado: "YADI LUZ MONTES DE LA HOZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "71377472",
+    empleado: "CARLOS ANDRES CORTES SALAZAR",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "71268358",
+    empleado: "FRANCISCO ANTONIO LOPEZ CORREA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "43676861",
+    empleado: "ASTRID ELENA CARVAJAL LOPEZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "1038110935",
+    empleado: "JENIFFER VILLEGAS JARABA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "43971851",
+    empleado: "VIVIANA ANDREA CHAVARRIA MARIN",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "43759360",
+    empleado: "PAULA ANDREA RESTREPO ROA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "71378409",
+    empleado: "HAROL ANDRES IBARRA VELASQUEZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "1035915725",
+    empleado: "MONTOYA RIOS YENI ALEJANDRA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "1128267451",
+    empleado: "PEAK LEMOS PAUL",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
+  {
+    cedula: "1128433832",
+    empleado: "ARBOLEDA EUSE LEIDY YOHANA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "NO",
+  },
 ];
 
 
@@ -10725,6 +11211,25 @@ window.addEventListener("load", async () => {
         campo7: [455, 162], // día de la deduccion
       };
 
+    } else if (contrato == "TEXCOMERCIAL - TEXCO SAS") {
+      if (descuento == "SI") {
+        deduccion = "41.650 pesos";
+      }
+      else {
+        deduccion = "51.650 pesos";
+        
+      }
+      formulario = "formulario_descuento_texco.jpg";
+      posiciones = {
+        campo1: [110, 410], // firma
+        campo2: [80, 510], // fecha
+        campo3: [120, 148], // nombre
+        campo4: [135, 372], // nombre-firma
+        campo5: [135, 387], // cedula 
+        campo6: [335, 188], // deducción
+        campo7: [455, 162], // día de la deduccion
+      };
+
     } else if (
       contrato == "OPERADOR MONTACARGAS L&S" ||
       contrato == "OPERADOR MONTACARGAS S&M" ||
@@ -10787,10 +11292,10 @@ async function generatePDF(formulario, nombre, cedula, deduccion, contrato) {
   const successMessage = document.getElementById("successMessage");
   successMessage.style.display = "block"; // Muestra el mensaje
 
-  setTimeout(() => {
-      window.close(); // Cierra la ventana actual
-  }, 15000);
   // setTimeout(() => {
-  //   location.reload();
-  // }, 5000);
+  //     window.close(); // Cierra la ventana actual
+  // }, 15000);
+  setTimeout(() => {
+    location.reload();
+  }, 5000);
 }
