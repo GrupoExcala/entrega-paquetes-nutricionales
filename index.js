@@ -11094,6 +11094,90 @@ const empleados = [
     nomina: "TEXCOMERCIAL - TEXCO SAS",
     descuento: "NO",
   },
+  {
+    cedula: "1012319050",
+    empleado: "DIANA MILENA CHACON MONROY",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1110564884",
+    empleado: "DIEGO FERNANDO SECO ROMERO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1123315756",
+    empleado: "JOSE LUIS TORO ORTIZ",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "52755539",
+    empleado: "CONSUELO AVILA SISA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "53005069",
+    empleado: "NIDIA JOHANNA PULIDO LEGUIZAMON",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "53029681",
+    empleado: "DIANA CAROLINA IBAGUE NAVARRO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "79906177",
+    empleado: "JUAN GUILLERMO MARIN LOZANO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "86063042",
+    empleado: "OSCAR FERLEY LIZCANO RICO",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1010021127",
+    empleado: "MANUEL JESUS GALLARDO MEJIA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1095934218",
+    empleado: "DANIS MARRUGO DE AVILA",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "72239390",
+    empleado: "DAVID ORELLANO CIENFUEGOS",
+    nomina: "TEXCOMERCIAL - TEXCO SAS",
+    descuento: "SI",
+  },
+  {
+    cedula: "1104698098",
+    empleado: "ALVARO ALEJANDRO SANCHEZ GIL",
+    nomina: "SINTRA EMPAQUES",
+    descuento: "SI",
+  },
+  {
+    cedula: "52443530",
+    empleado: "ROSENIA RUGE GOMEZ",
+    nomina: "COMPAÑÍA DE EMPAQUES",
+    descuento: "SI",
+  },
+  {
+    cedula: "1037663649",
+    empleado: "ANA MARIA RESTREPO RIVILLAS",
+    nomina: "COMPAÑÍA DE EMPAQUES",
+    descuento: "NO",
+  },
 ];
 
 
