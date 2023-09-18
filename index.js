@@ -11382,10 +11382,10 @@ async function generatePDF(formulario, nombre, cedula, deduccion, contrato) {
   const successMessage = document.getElementById("successMessage");
   successMessage.style.display = "block"; // Muestra el mensaje
 
-  // setTimeout(() => {
-  //     window.close(); // Cierra la ventana actual
-  // }, 15000);
   setTimeout(() => {
-    location.reload();
-  }, 5000);
+      window.close(); // Cierra la ventana actual
+  }, 15000);
+  // setTimeout(() => {
+  //   location.reload();
+  // }, 5000);
 }
