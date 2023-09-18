@@ -11178,6 +11178,12 @@ const empleados = [
     nomina: "COMPAÑÍA DE EMPAQUES",
     descuento: "NO",
   },
+  {
+    cedula: "87301810",
+    empleado: "JESUS ALBERTO BOLAÑOS ALVEAR",
+    nomina: "COMPAÑÍA DE EMPAQUES",
+    descuento: "SI",
+  },
 ];
 
 
